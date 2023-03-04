@@ -131,10 +131,15 @@
       "color" => "#e1c19b",
       "image" => "backgrounds/syysviljaa.jpg"
     ),
+    "talvi" => array(
+      "name"  => "Talvi",
+      "color" => "#60aae6",
+      "image" => "backgrounds/talvi.jpg"
+    ),
     "vadelmat" => array(
-      "name"  => "Vadelmat",
-      "color" => "#faa7b9",
-      "image" => "backgrounds/vadelmat.jpg"
+      "name"   => "Vadelmat",
+      "color"  => "#faa7b9",
+      "image"  => "backgrounds/vadelmat.jpg"
     )
   );
 
