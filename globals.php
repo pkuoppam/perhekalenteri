@@ -7,7 +7,7 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"),
     "leckerlione" => array(
       "name" => "Leckerli One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Leckerli+One&display=swa"),
+      "url"  => "https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap"),
     "lobster" => array(
       "name" => "Lobster",
       "url"  => "https://fonts.googleapis.com/css2?family=Lobster&display=swap"),
@@ -28,8 +28,11 @@
       "url"  => "https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap"),
     "titanone" => array(
       "name" => "Titan One",
-      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap")
-  );
+      "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
+    "rubikiso" => array(
+      "name" => "Rubik Iso",
+      "url" => "https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap")
+);
 
   // Otsakkeen taustat aakkosjärjestyksessä.
   //   name  = Taustan nimi, joka näkyy listassa.
