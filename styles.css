@@ -6,3 +6,9 @@ html {
     background: rgb(34,193,195);
     background: linear-gradient(273deg, rgba(34,193,195,1) 0%, rgba(253,251,45,1) 100%);
 }
+
+footer > div {
+
+font-size: 80%;
+
+}
