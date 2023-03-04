@@ -171,6 +171,6 @@
   );
 
   // Nimilistan esimerkkinimet.
-  $defaultnames = "Pekka\nHanna-Leena\nSamuel\nJoel\nMirjam";
+  $defaultnames = "Kati\nPetri\nArttu\nSanttu\nPerttu";
 
 ?>
