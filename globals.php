@@ -17,6 +17,9 @@
     "passionone" => array(
       "name" => "Passion One",
       "url"  => "https://fonts.googleapis.com/css2?family=Passion+One&display=swap"),
+    "rubikiso" => array(
+      "name" => "Rubik Iso",
+      "url" => "https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap"),
     "satisfy" => array(
       "name" => "Satisfy",
       "url"  => "https://fonts.googleapis.com/css2?family=Satisfy&display=swap"),
@@ -29,9 +32,6 @@
     "titanone" => array(
       "name" => "Titan One",
       "url"  => "https://fonts.googleapis.com/css2?family=Titan+One&display=swap"),
-    "rubikiso" => array(
-      "name" => "Rubik Iso",
-      "url" => "https://fonts.googleapis.com/css2?family=Rubik+Iso&display=swap")
 );
 
   // Otsakkeen taustat aakkosjärjestyksessä.
